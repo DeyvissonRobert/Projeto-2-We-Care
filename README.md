@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✧ Projeto We Care ✧
+# ✧ We Care ✧
 <br> <br>
 
 ## ✧ Este é um projeto responsivo que eu aprendi no <a href="https://rodolfomori.com.br/devclub/" target="_blank">DevClub</a>.🚀 ✧
